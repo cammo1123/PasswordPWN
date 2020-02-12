@@ -1,0 +1,9 @@
+C:\Users\camer\Desktop\SharpLocker-master\SharpLocker\bin\Release\SharpLocker.exe.config
+C:\Users\camer\Desktop\SharpLocker-master\SharpLocker\bin\Release\SharpLocker.exe
+C:\Users\camer\Desktop\SharpLocker-master\SharpLocker\bin\Release\SharpLocker.pdb
+C:\Users\camer\Desktop\SharpLocker-master\SharpLocker\obj\Release\SharpLocker.csprojAssemblyReference.cache
+C:\Users\camer\Desktop\SharpLocker-master\SharpLocker\obj\Release\SharpLocker.LockScreenForm.resources
+C:\Users\camer\Desktop\SharpLocker-master\SharpLocker\obj\Release\SharpLocker.Properties.Resources.resources
+C:\Users\camer\Desktop\SharpLocker-master\SharpLocker\obj\Release\SharpLocker.csproj.GenerateResource.cache
+C:\Users\camer\Desktop\SharpLocker-master\SharpLocker\obj\Release\SharpLocker.exe
+C:\Users\camer\Desktop\SharpLocker-master\SharpLocker\obj\Release\SharpLocker.pdb
